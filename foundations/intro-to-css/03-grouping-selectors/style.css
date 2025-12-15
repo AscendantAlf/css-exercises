@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+
+.Button {font-size: 28px; font-family: Helvetica, 'Times New Roman', sans-serif;}
+
+.ClickMe {background-color: black; color: white;}
+
+.ClickMeInstead {background-color: yellow;}
